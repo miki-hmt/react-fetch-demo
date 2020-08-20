@@ -1,6 +1,7 @@
 
 import React from 'react'
 
+//暂时使用类声明式组件
 export default class User extends React.Component{
 
     constructor(){
