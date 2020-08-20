@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+//import './App.css';
 
 //demo1
 import User from './demo1/user';
